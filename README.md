@@ -1,2 +1,1 @@
-# my-task-
-Hi, i am gowtham This repository contains my internship task 1 completed using Python. It demonstrates my understanding of core Python concepts and practical coding skills.
+This Python program is a basic login system that checks if a user provides the correct username and password. If both match the predefined credentials, the user is granted access; otherwise, an error message is shown.
