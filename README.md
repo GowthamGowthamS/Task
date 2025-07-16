@@ -10,3 +10,24 @@ I’m sharing a small Python program I wrote that asks the user to enter a file 
 ✅ Checks if the file exists using os.path.exists()
 ✅ Prevents errors when reading missing files
 ✅ Great for beginners to learn basic file handling in Python
+
+# Python internship project
+
+I recently wrote a simple Python program to create an interactive multiple-choice quiz. It asks 10 shuffled questions with options, collects user input, and displays the final score.
+
+✨ Key features:
+
+10 MCQ questions (mixed topics: Python basics, general knowledge)
+
+Random question order on every run (using random.shuffle)
+
+User-friendly input and score display
+
+
+This project helped me practice:
+
+Python lists and tuples
+
+Loops and conditional statements
+
+Randomization in Python
